@@ -1,0 +1,2 @@
+# BMSTU-OOP
+BMSTU OOP 2019 course
